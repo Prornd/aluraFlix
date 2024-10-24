@@ -10,7 +10,7 @@ section {
             display: flex;
             justify-content: center;
     }
-    div {
+    .chamada-texo {
         margin-right: 200px;
     }
     
